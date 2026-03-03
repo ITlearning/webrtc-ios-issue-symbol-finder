@@ -1,0 +1,4 @@
+interface:
+  display_name: "WebRTC Bug Investigator (iOS Focus)"
+  short_description: "Structured WebRTC bug triage for Obj-C/C++ and iOS SDK."
+  default_prompt: "Analyze this WebRTC issue in six steps: problem definition, .mm/.h/.cpp scope narrowing, ranked hypotheses, verification plan, change impact, and AGENTS.md retrospective draft."
